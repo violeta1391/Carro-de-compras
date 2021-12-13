@@ -4,7 +4,6 @@ import Layout from './components/Layout'
 import Title from './components/Title'
 import Navbar from './components/Navbar'
 
-
 class App extends Component {
 
   state = {
@@ -54,7 +53,6 @@ class App extends Component {
       </div>
     )
   }
-
 }
 
 export default App;
